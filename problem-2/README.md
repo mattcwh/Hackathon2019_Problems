@@ -20,7 +20,7 @@ __Return__: The total weight of P. [Consult the monoisotopic mass table](https:/
 
 ### Code check
 
-Check your code answeres at [rosalind.info](http://rosalind.info/)!
+Check your code answers at [rosalind.info](http://rosalind.info/)!
 
 ## Reference
 
