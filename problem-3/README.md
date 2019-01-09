@@ -20,3 +20,7 @@ ATAT
 ### Sample Output
 
 `2 4 10`
+
+## Reference
+
+More about the problem can be found here: [rosalind.info](http://rosalind.info/problems/subs/)
