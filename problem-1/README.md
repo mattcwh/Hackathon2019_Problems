@@ -17,3 +17,7 @@ __Return__: Four integers (separated by spaces) counting the respective number o
 ### Sample Output
 
 `20 12 17 21`
+
+## Reference
+
+More about the problem can be found here: [rosalind.info](http://rosalind.info/problems/dna/)
