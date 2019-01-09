@@ -28,7 +28,7 @@ Output: 1850229480761
 
 ### Code check
 
-Check your code answeres at [rosalind.info](http://rosalind.info/)!
+Check your code answers at [rosalind.info](http://rosalind.info/)!
 
 ## Reference
 
