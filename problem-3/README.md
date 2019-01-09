@@ -12,9 +12,10 @@ __Return__: All locations of t as a substring of s.
 
 ### Sample Dataset
 
-`GATATATGCATATACTT`
-`ATAT`
-
+```
+GATATATGCATATACTT 
+ATAT
+```
 
 ### Sample Output
 
