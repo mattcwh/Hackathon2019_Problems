@@ -17,3 +17,7 @@ __Return__: The total weight of P. [Consult the monoisotopic mass table](https:/
 ### Sample Output
 
 `821.392`
+
+## Reference
+
+More about the problem can be found here: [rosalind.info](http://rosalind.info/problems/prtm/)
