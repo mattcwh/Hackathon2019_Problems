@@ -23,7 +23,7 @@ ATAT
 
 ### Code check
 
-Check your code answeres at [rosalind.info](http://rosalind.info/)!
+Check your code answers at [rosalind.info](http://rosalind.info/)!
 
 ## Reference
 
