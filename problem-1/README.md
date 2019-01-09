@@ -18,6 +18,10 @@ __Return__: Four integers (separated by spaces) counting the respective number o
 
 `20 12 17 21`
 
+### Code check
+
+Check your code answeres at [rosalind.info](http://rosalind.info/)!
+
 ## Reference
 
 More about the problem can be found here: [rosalind.info](http://rosalind.info/problems/dna/)
