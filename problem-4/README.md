@@ -23,7 +23,7 @@ Output: 19
 
 ```
 Input: 29 2
-Output: 1850229480761
+Output: 178956971
 ```
 
 ### Code check
